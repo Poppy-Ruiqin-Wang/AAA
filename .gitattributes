@@ -1,0 +1,8 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/cloud_envrionment_hdri.uasset filter=lfs diff=lfs merge=lfs -text
+Content/cloud-envrionment-hdri__1_.uasset filter=lfs diff=lfs merge=lfs -text
+Content/brick_pavement_02_rough_4k.uasset filter=lfs diff=lfs merge=lfs -text
+Content/brick_pavement_02_nor_gl_4k.uasset filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Content/brick_pavement_02_disp_4k.uasset filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Content/brick_pavement_02_diff_4k.uasset filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Content/Entrance/*.uasset filter=lfs diff=lfs merge=lfs -text
